@@ -16,10 +16,10 @@ For video, set `MAX_SECONDS` and `SCALE_WIDTH` to small values (for example 2 an
 
 | File | Purpose |
 |---|---|
-| `5D_image_encryption.ipynb` | Image encryption and decryption |
-| `5D_audio_encryption.ipynb` | Audio (16-bit PCM WAV) encryption and decryption |
-| `5D_video_encryption.ipynb` | Video frames + audio encryption and decryption |
-| `5D_12_tests.ipynb` | 12 statistical and performance tests for image, audio and video |
+| `5D_Chaotic_Model_Image_Encryption_Decryption.ipynb` | Image encryption and decryption |
+| `5D_Chaotic_Model_Audio_Encryption_Decryption.ipynb` | Audio (16-bit PCM WAV) encryption and decryption |
+| `5D_Chaotic_Model_Video_Encryption_Decryption.ipynb` | Video frames + audio encryption and decryption |
+| `5D_Chaotic_Model_12_Tests.ipynb` | 12 statistical and performance tests for image, audio and video |
 | `reports/` | Project report for image, audio and video (PDF) |
 | `test data/` | Sample image, audio and video used in the reports |
 
