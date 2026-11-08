@@ -21,7 +21,7 @@ For video, set `MAX_SECONDS` and `SCALE_WIDTH` to small values (for example 2 an
 | `5D_Chaotic_Model_Video_Encryption_Decryption.ipynb` | Video frames + audio encryption and decryption |
 | `5D_Chaotic_Model_12_Tests.ipynb` | 12 statistical and performance tests for image, audio and video |
 | `reports/` | Project report for image, audio and video (PDF) |
-| `test data/` | Sample image, audio and video used in the reports |
+| `Standard Testing Data/` | Sample image, audio and video used in the reports |
 
 ## Model
 
